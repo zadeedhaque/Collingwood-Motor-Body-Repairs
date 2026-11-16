@@ -1,0 +1,71 @@
+{
+  "business_name": {
+    "value": "Collingwood Motor Body Repairs",
+    "listing_display_name": "Collingwood Motor Body Repairs",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Collingwood+Motor+Body+Repairs+72+Nicholson+Street+Abbotsford+VIC+3067"
+  },
+  "category": {
+    "value": "Smash & Auto Body Repairs / Panel Beaters & Painters",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Collingwood+Motor+Body+Repairs+72+Nicholson+Street+Abbotsford+VIC+3067"
+  },
+  "status": {
+    "value": "Operating (Verified)",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Collingwood+Motor+Body+Repairs+72+Nicholson+Street+Abbotsford+VIC+3067"
+  },
+  "address": {
+    "value": "72 Nicholson St, Abbotsford VIC 3067",
+    "region": "Inner North / East Melbourne",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Collingwood+Motor+Body+Repairs+72+Nicholson+Street+Abbotsford+VIC+3067"
+  },
+  "phone": {
+    "value": "(03) 9417 4972",
+    "international": "+61 3 9417 4972",
+    "tel_href": "tel:+61394174972",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Collingwood+Motor+Body+Repairs+72+Nicholson+Street+Abbotsford+VIC+3067"
+  },
+  "google_maps": {
+    "search_url": "https://www.google.com/maps/search/?api=1&query=Collingwood+Motor+Body+Repairs+72+Nicholson+Street+Abbotsford+VIC+3067",
+    "embed_url": "https://www.google.com/maps?q=Collingwood+Motor+Body+Repairs+72+Nicholson+St+Abbotsford+VIC+3067&z=16&ie=UTF8&output=embed"
+  },
+  "opening_hours": {
+    "monday": { "value": "9:00 am to 5:00 pm" },
+    "tuesday": { "value": "9:00 am to 5:00 pm" },
+    "wednesday": { "value": "9:00 am to 5:00 pm" },
+    "thursday": { "value": "9:00 am to 5:00 pm" },
+    "friday": { "value": "9:00 am to 5:00 pm" },
+    "saturday": { "value": "Closed" },
+    "sunday": { "value": "Closed" }
+  },
+  "reviews_summary": {
+    "rating": 4.0,
+    "scale": 5,
+    "summary_text": "4.0 out of 5 on Google Maps",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Collingwood+Motor+Body+Repairs+72+Nicholson+Street+Abbotsford+VIC+3067"
+  },
+  "services": [
+    {
+      "name": "Collision & Smash Repairs",
+      "description": "Structural and cosmetic collision recovery for private and insured vehicles across all makes and models, from minor urban bingles to multi-panel accident damage."
+    },
+    {
+      "name": "Panel Beating & Dent Removal",
+      "description": "Precision steel and aluminium panel reshaping, door skin and guard replacements, crease extraction, and factory panel gap alignment."
+    },
+    {
+      "name": "Spray Painting & Colour Matching",
+      "description": "Oven-baked two-pack refinishing, spectrophotometer paint matching, clear-coat blending, and paintwork restoration."
+    },
+    {
+      "name": "Bumper, Scuff & Scratch Repairs",
+      "description": "Plastic bumper welding, corner scuff refinishing, deep key-scratch repair, and stone-chip rectification."
+    },
+    {
+      "name": "Chassis & Frame Alignment",
+      "description": "Underbody and structural measuring to verify straight factory geometry before outer panels are refitted."
+    },
+    {
+      "name": "Insurance & Private Quotes",
+      "description": "Straightforward damage assessments and written repair estimates for insurance claims or private out-of-pocket repairs."
+    }
+  ]
+}
