@@ -523,6 +523,10 @@ a.chip:focus-visible {
   aspect-ratio: 1 / 1;
 }
 
+.r-wide {
+  aspect-ratio: 16 / 5;
+}
+
 /* Sections */
 .section {
   padding-block: clamp(3.5rem, 7.5vw, 5.75rem);
@@ -1152,19 +1156,15 @@ a.chip:focus-visible {
   }
 
   .gallery-lead {
-    grid-column: span 7;
+    grid-column: span 6;
   }
 
   .gallery-side {
-    grid-column: span 5;
+    grid-column: span 6;
   }
 
-  .gallery-bottom-a {
-    grid-column: span 5;
-  }
-
-  .gallery-bottom-b {
-    grid-column: span 7;
+  .gallery-banner {
+    grid-column: span 12;
   }
 
   .find {

@@ -2,3 +2,5 @@
 .env*
 .ds-receipts
 
+.vercel
+.env*
